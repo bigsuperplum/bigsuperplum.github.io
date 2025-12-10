@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="64" viewBox="0 0 120 64" role="img" aria-label="logo">
+  <rect rx="10" width="120" height="64" fill="#2b90ff" />
+  <text x="12" y="40" font-family="Segoe UI, Microsoft YaHei" font-size="20" fill="#fff">我的网页</text>
+</svg>
